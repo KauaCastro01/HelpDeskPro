@@ -1,6 +1,6 @@
 # 🚀 HelpDesk Pro
 
-**HelpDesk Pro** é um sistema completo desenvolvido pela **RWB Software** para gerenciar chamados, tickets e atendimentos de forma ágil, inteligente e organizada.
+**HelpDesk Pro** é um sistema completo para gerenciar chamados, tickets e atendimentos de forma ágil, inteligente e organizada.
 
 O objetivo é **facilitar a rotina do suporte técnico e do atendimento interno**, oferecendo abertura, edição, acompanhamento e finalização de chamados — tudo em uma interface moderna e intuitiva.
 
@@ -133,11 +133,7 @@ Permite alterar informações da conta.
 
 ---
 
-## 🧑‍💻 Desenvolvido por **RWB Software**
-
 👨‍💻 Desenvolvedor: **Kauã Castro**  
-🏢 Empresa: **RWB Software**  
-📩 E-mail: **RWBSoftwares@gmail.com**
 
 ---
 
