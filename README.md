@@ -142,10 +142,3 @@ Permite alterar informações da conta.
 > 🧱 **Categoria:** Sistema Corporativo / ERP Interno  
 > 🔄 **Status:** Em desenvolvimento
 > ✅ **Versão Atual:** *1.0.0* (pré-release)
-
----
-
-## 🧾 Licença
-
-Projeto desenvolvido por **RWB Software**.  
-Todos os direitos reservados © 2025.
